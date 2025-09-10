@@ -1,5 +1,5 @@
-<h1> align="center">Hi, I'm Elif!🖐️ </h1>
-<p> align="center">
+<h1 align="center">Hi, I'm Elif!🖐️ </h1>
+<p align="center">
   <i>“Yazılım alanında sürekli öğrenmeye açık, problem çözme odaklı ve hayallerini projelere dönüştürmekten keyif alan bir geliştiriciyim.”</i>
 </p>
 
